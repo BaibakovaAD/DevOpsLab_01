@@ -9,3 +9,13 @@
 <img width="867" height="558" alt="image" src="https://github.com/user-attachments/assets/41a9c8ea-2f42-402a-a0f5-794d067d9077" />
 Открыли ключ
 <img width="1216" height="76" alt="image" src="https://github.com/user-attachments/assets/7a02d823-7aa8-4c77-8814-4af5885f5a32" />
+Вставили ключ
+<img width="1209" height="86" alt="image" src="https://github.com/user-attachments/assets/6213a7c3-0014-42dc-a4c4-d843c4fa80d9" />
+Подключились по ключу
+<img width="1036" height="672" alt="image" src="https://github.com/user-attachments/assets/e29df936-271a-46d8-ab41-878b8595c80b" />
+Отредактировали файл sudoers и разрешили пользователю проводить операции без пароля
+<img width="936" height="857" alt="image" src="https://github.com/user-attachments/assets/836c8c18-38ae-4920-95d4-80f87591522a" />
+Проверили, что парольна суперпользователя не запрашивается
+<img width="501" height="105" alt="image" src="https://github.com/user-attachments/assets/01b87900-74e2-4c9e-b95e-d63aa2f45f87" />
+Установили Remote- SSH плагин для VSCode
+<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/fd19b50c-000d-4bc0-bbca-27be326d1b28" />
